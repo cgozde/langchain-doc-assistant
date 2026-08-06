@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/raw/
+chroma_db/
+data/temp_langchain_docs/
