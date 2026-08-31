@@ -17,14 +17,14 @@ Ask a question about LangChain in plain English (or Turkish) and get an answer g
 
 ## Features
 
-- 📄 Automated ingestion of LangChain's official docs
-- 🔍 Semantic search via embeddings (retrieval, not keyword matching)
-- ⚡ Fast, free inference via Groq API
-- 🌐 REST API built with FastAPI + a minimal chat UI
-- 🐳 Fully containerized with Docker
-- ✅ CI pipeline via GitHub Actions
-- 📊 Request logging: latency, token usage, estimated cost per query
-- 🔄 Prompt versioning (track which prompt version produced which answer)
+- Automated ingestion of LangChain's official docs
+- Semantic search via embeddings (retrieval, not keyword matching)
+- Fast, free inference via Groq API
+- REST API built with FastAPI + a minimal chat UI
+- Fully containerized with Docker
+- CI pipeline via GitHub Actions
+- Request logging: latency, token usage, estimated cost per query
+- Prompt versioning (track which prompt version produced which answer)
 
 ## Architecture
 

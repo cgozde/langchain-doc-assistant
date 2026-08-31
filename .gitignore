@@ -6,3 +6,4 @@ data/raw/
 chroma_db/
 data/temp_langchain_docs/
 logs.jsonl
+.vscode
