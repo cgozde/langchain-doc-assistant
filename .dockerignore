@@ -3,5 +3,4 @@ __pycache__/
 *.pyc
 .git/
 .env
-chroma_db/
 data/temp_langchain_docs/
