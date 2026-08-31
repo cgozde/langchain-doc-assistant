@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>LangChain Doc Assistant</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -10,6 +11,22 @@
             margin: 40px auto;
             padding: 20px;
             background: #f7f7f8;
+        }
+        @media (max-width: 600px) {
+            body {
+                margin: 10px auto;
+                padding: 12px;
+            }
+            #chat {
+                min-height: 300px;
+                padding: 14px;
+            }
+            #input-area {
+                flex-direction: column;
+            }
+            button {
+                width: 100%;
+            }
         }
         h1 {
             font-size: 20px;
