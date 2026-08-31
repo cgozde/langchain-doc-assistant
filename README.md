@@ -1,5 +1,7 @@
 # LangChain Doc Assistant
 
+🔗 **[Canlı Demo](https://langchain-doc-assistant.onrender.com)**
+
 LangChain dokümantasyonu üzerinde çalışan bir RAG (Retrieval-Augmented Generation) tabanlı soru-cevap asistanı. Kullanıcı bir soru sorar, sistem LangChain'in resmi dokümantasyonundan en alakalı bölümleri bulur ve bu bilgiye dayanarak bir LLM ile cevap üretir.
 
 ## Özellikler
